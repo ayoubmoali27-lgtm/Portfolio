@@ -40,7 +40,7 @@ export default function Hero() {
 
         <div className="flex flex-wrap gap-3 mb-10">
           <Link
-            href="/projects"
+            href="/work"
             className="bg-white text-black text-sm font-semibold px-5 py-3 rounded-full hover:opacity-90 transition-opacity"
           >
             See my works
